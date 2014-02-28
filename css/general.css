@@ -125,13 +125,6 @@ footer {
     overflow: hidden;
     
 }
-
-.foot {
-    float: right;
-    height: 5rem;
-    width: auto; 
-    padding 0
-}
     
 footer p {
     font-size: .75rem;
