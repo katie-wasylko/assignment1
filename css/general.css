@@ -39,7 +39,7 @@ header {
 }
 
 .logo {
-    height: 6rem;
+    height: 8rem;
     width: auto;
     padding: 0 0;
 }
@@ -50,7 +50,7 @@ h1 {
     overflow: hidden;
     font-size: 3.7rem;
     font-weight: bold;
-    line-height: 3rem;
+    line-height: 5rem;
 }
 
 blockquote {
